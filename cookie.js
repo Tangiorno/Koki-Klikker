@@ -20,6 +20,7 @@ button.addEventListener('click', function() {
             break;
         case 300:
             document.getElementById('level-display').textContent = "Specialist Koki Klikker";
+            document.getElementById('specialist').src = './specialist.gif';
             break;
         case 750:
             document.getElementById('level-display').textContent = "Expert Koki Klikker";
