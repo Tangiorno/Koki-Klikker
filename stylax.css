@@ -1,0 +1,19 @@
+h1{
+    font-size:42px;
+}
+header{
+    display:flex;
+    justify-content: center;
+}
+#cookie-container{
+    width: 50px;
+    height: 50px;
+}
+main{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+#level-display{
+    white-space: nowrap;
+}
